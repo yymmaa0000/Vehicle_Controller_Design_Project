@@ -1,4 +1,6 @@
 # Vehicle_Controller_Design_Project
+This project was completed on 12/10/2018, and was just uploaded to my Github account recently
+
 In this project, I designed a LQR controller to control a car following a given trajectory. 
 The goal of this project is to make the car finish the path as quickly as possible while still maintaining good accuracy.
 
