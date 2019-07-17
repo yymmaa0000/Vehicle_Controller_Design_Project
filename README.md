@@ -19,14 +19,14 @@ Here are some simulation results:
 ### Fast Controller ###
 * Total time:  74.55 s
 * Maximun distance from reference:  5.7268493347214475 m
-* Average distance from referencet:  1.3019881974778402 m
+* Average distance from reference:  1.3019881974778402 m
 ![alt text](https://github.com/yymmaa0000/Vehicle_Controller_Design_Project/blob/master/Calculation%20and%20result/fast_controller_result_1.PNG)
 ![alt text](https://github.com/yymmaa0000/Vehicle_Controller_Design_Project/blob/master/Calculation%20and%20result/fast_controller_result_2.PNG)
 
 ### Slow Controller ###
 * Total time:  157.45000000000002 s
 * Maximun distance from reference:  5.6915563863996335 m
-* Average distance from referencet:  0.7979645575292 m
+* Average distance from reference:  0.7979645575292 m
 ![alt text](https://github.com/yymmaa0000/Vehicle_Controller_Design_Project/blob/master/Calculation%20and%20result/slow_controller_result_1.PNG)
 ![alt text](https://github.com/yymmaa0000/Vehicle_Controller_Design_Project/blob/master/Calculation%20and%20result/slow_controller_result_2.PNG)
 
